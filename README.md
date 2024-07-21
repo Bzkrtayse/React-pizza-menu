@@ -36,3 +36,6 @@ This is a simple React application that displays a pizza menu with various optio
 `src/`: Contains all the source code.
 `index.js`: Main entry point.
 `index.css`: Global styles.
+
+## React-pizza-menu
+![react-pizza-menu](https://github.com/user-attachments/assets/698011e3-4d61-4b56-a2d7-b5053abff936)
